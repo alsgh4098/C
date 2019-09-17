@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1434287933 source:c:\users\진두호\desktop\추억사진\민호\final_assignment_201221118_jinminho\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
